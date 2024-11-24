@@ -1,0 +1,15 @@
+/* HomePage.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+  }
+  
+  h1 {
+    color: #4CAF50;
+    text-align: center;
+  }
+  
+  .container {
+    padding: 20px;
+  }
+  
