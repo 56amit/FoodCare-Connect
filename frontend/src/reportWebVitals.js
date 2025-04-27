@@ -9,5 +9,6 @@ const reportWebVitals = onPerfEntry => {
     });
   }
 };
+export const url = "https://foodcare-connect-api.onrender.com"
 
 export default reportWebVitals;
