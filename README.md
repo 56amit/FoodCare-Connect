@@ -10,7 +10,7 @@ React Router DOM – for client-side routing/navigation.
 
 Axios – to handle communication with backend APIs.
 
-Context API – for managing global state like user login/auth state.
+Context API – for managing global state like user login/auth state....
 
 🛠️ Backend:
 Node.js with Express.js – to handle server-side logic and routing.
